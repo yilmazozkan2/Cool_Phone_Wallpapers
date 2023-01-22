@@ -1,2 +1,3 @@
-# Harika_Telefon_Duvar_Kagitlari
-Available on Play Store
+# whatsapp_yeni_duvarkagitlari
+
+Whatsapp İçin Yeni Duvar Kağıtları

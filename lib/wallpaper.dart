@@ -61,13 +61,6 @@ class _WallpaperState extends State<Wallpaper> {
     }else if(response.statusCode >200){
       print('Hata Kodu 200 Üstü');
     }
-    else if (response.statusCode >=300 || response.statusCode <=400){
-      print('Hata Kodu 300 veya 400');
-    }
-    else if(response.statusCode > 400){
-      print('Hata Kodu 400 den Büyük');
-
-    }
     return response;
   }
 

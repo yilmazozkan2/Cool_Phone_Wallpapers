@@ -1,1 +1,1 @@
-![Screenshot_2023-01-24-22-30-10-548_com android chrome](https://user-images.githubusercontent.com/52213548/214391130-56736472-3ea7-434b-8d5e-7f7ac6fcc231.jpg)
+![duvarkagitlari](https://user-images.githubusercontent.com/52213548/218536832-4b3a021d-e029-4a1e-b100-30548eb8e7c7.PNG)

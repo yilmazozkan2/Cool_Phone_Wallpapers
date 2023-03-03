@@ -1,1 +1,1 @@
-![duvarkagitlari](https://user-images.githubusercontent.com/52213548/218536832-4b3a021d-e029-4a1e-b100-30548eb8e7c7.PNG)
+![wallpapers](https://user-images.githubusercontent.com/52213548/222829305-07bcdca5-5464-4680-bc0c-a6c8e7610c4f.PNG)
